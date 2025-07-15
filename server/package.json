@@ -1,0 +1,24 @@
+{
+  "name": "freelancingbackend",
+  "version": "1.0.0",
+  "description": "freelancing online market place backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karan1814/Freelancinng-online-Marketplace.git"
+  },
+  "author": "\"karan rathore\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karan1814/Freelancinng-online-Marketplace/issues"
+  },
+  "homepage": "https://github.com/karan1814/Freelancinng-online-Marketplace#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "expres": "^0.0.5",
+    "express": "^5.1.0"
+  }
+}
