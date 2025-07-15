@@ -1,4 +1,8 @@
 📊 Project Overview
+
+> ⚠️ **Note**: This project is created purely for **educational and practice purposes**. It is not affiliated with any other online freelancers market place platforms.
+
+
 Build a full-featured online marketplace for freelancers, similar to Fiverr or Upwork, where users can:
 Register as freelancers or clients
 
